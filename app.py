@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+
 
 # Load the data
 data = pd.read_csv("SM Cleaned Data MH Aggregated.csv")
